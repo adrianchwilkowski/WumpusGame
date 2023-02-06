@@ -1,0 +1,23 @@
+Celem gry jest znalezienie skarbu w jaskini, a następnie odnalezienie drogi do wyjścia. Jaskinia składa się z 16 pomieszczeń (mapa 4x4). Po drodze napotkać jednak można przeszkody: Wumpusa oraz dziury.
+
+Symbole:
+@ - aktualne położenie
+V - pomieszczenie odwiedzone
+W - Wumpus w pobliżu
+P - dziura w pobliżu
+W+P - Wumpus oraz dziura w pobliżu
+@+T - niesiesz skarb (treasure)
+
+Wumpus - potwór, którego można zabić przy użyciu strzały (dostępne 1 na grę).
+Pit - dziura, jest ich od 1 do 3 na mapę.
+Treasure - skarb, który musi zostać odnaleziony przed wyjściem.
+Exit - wyjście, znajduje się w prawym górnym rogu.
+
+Sterowanie:
+↑ - idź w górę
+↓ - idź w dół
+→ - idź w prawo
+← - idź w lewo
+k - przygotuj strzał (strzał wykonuje w kierunku, w którym miałbyś iść, anuluj dowolnym przyciskiem)
+
+*nie każda mapa jest możliwa do przejścia
